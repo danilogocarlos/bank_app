@@ -20,8 +20,8 @@ O Design foi proposto pelo UX/UI Designer João Paulo, que apresentou o projeto 
 
 ### Projeto no Figma
 
-![Demostração](https://raw.githubusercontent.com/danilogocarlos/bank_app/main/lib/assets/img/figma.png)
+![Demostração](https://raw.githubusercontent.com/danilogocarlos/bank_app/main/lib/img/figma.png)
 
 ### Projeto em Flutter
 
-![Demostração](https://raw.githubusercontent.com/danilogocarlos/bank_app/main/lib/assets/img/video.gif)
+![Demostração](https://raw.githubusercontent.com/danilogocarlos/bank_app/main/lib/img/video.gif)
